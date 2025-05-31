@@ -1,0 +1,39 @@
+Setup (): Runs once when the board starts (what to work)
+loop(): Runs repeatedly (how to work)
+ 
+
+datatypes
+int:
+float
+char
+boolean
+string
+
+
+ldr Sensor
+Analog Write and Read
+max. value 1024 
+
+
+analogWrite(pin, value) 1024
+
+Serial.begin(9600);
+Serial.print();
+
+
+Date:- 5/31/2025
+
+Sensor 
+1. Active
+2. Passive
+
+Physical environment 
+Parameters measure
+
+Ulltrasonic Sensor
+40KHZ 
+Human(20HZ to 20KHZ)
+
+
+(HC-SR04 Pinout) (Ultrasonic Sensor)
+
