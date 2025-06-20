@@ -3,8 +3,8 @@
 const char* ssid = "CodeHive1";
 const char* password = "1234567891";
 
-const int trigPin = 14;
-const int echoPin = 12;
+const int trigPin = 6;
+const int echoPin = 7;
 
 WiFiServer server(80);
 
